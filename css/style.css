@@ -1,10 +1,11 @@
+html{
+   text-align: center;
+}
 .img{
-    width: 600px;
-    height: 600px;
+   width: inherit;
 }
 .img1{
-    width: 400px;
-    height: 400px;
+    width: inherit;
 }
 .cardimg{
     width: 100px;
@@ -13,8 +14,11 @@
 .prgrf{
     padding-top: 130px;
 }
+.orta{
+    padding-top: 50px;
+}
 .ortala{
-    padding-left: 100px !important;
+    padding-left: 45px !important;
     padding-top: 50px;
 }
 .hOrt{
